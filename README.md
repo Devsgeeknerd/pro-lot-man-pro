@@ -13,7 +13,7 @@
   <!-- * [Construido com](#construido-com) -->
   <!-- * [O que aprendi](#o-que-aprendi) -->
   <!-- * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
-  * [Recursos Úteis](#recursos-uteis)
+  <!-- * [Recursos Úteis](#recursos-uteis) -->
 * [Autores](#autores)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-lot-man&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
