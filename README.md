@@ -7,7 +7,7 @@
 ## TABELA DE CONTEÚDOS
 
 <!-- * [Vista por cima](#vista-por-cima) -->
-  * [Foto da tela](#foto-da-tela)
+  <!-- * [Foto da tela](#foto-da-tela) -->
   * [Links](#links)
 * [Meu processo]()
 
