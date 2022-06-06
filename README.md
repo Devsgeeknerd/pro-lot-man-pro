@@ -12,7 +12,7 @@
 <!-- * [Meu processo](#meu-processo) -->
   <!-- * [Construido com](#construido-com) -->
   <!-- * [O que aprendi](#o-que-aprendi) -->
-  * [Desenvolvimento continuo](#desenvolvimento-continuo)
+  <!-- * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
   * [Recursos Úteis](#recursos-uteis)
 * [Autores](#autores)
 
