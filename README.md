@@ -47,7 +47,7 @@
 <!-- AUTHORS -->
 ## AUTORES
 
-* [Paulo Vanderley]()
+* [Paulo Vanderley](https://github.com/Devsgeeknerd)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-lot-man&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
