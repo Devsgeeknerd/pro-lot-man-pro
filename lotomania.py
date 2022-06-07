@@ -1,2 +1,2 @@
 # Importação de bibliotecas
-from random
+from random import randint
