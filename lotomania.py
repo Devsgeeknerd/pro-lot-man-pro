@@ -4,3 +4,5 @@ from time import sleep
 
 lista = list()
 """ Criação de uma lista vazia """
+
+jogos = list()
