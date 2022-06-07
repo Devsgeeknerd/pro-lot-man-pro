@@ -6,3 +6,4 @@ lista = list()
 """ Criação de uma lista vazia """
 
 jogos = list()
+""" Criação de uma lista vazia """
