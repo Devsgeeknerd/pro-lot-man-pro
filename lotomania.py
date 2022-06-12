@@ -39,3 +39,4 @@ while total <= quantidade:
     lista.clear()
     """ Limpa a lista. """
     total += 1
+    """ Incrementa o total. """
