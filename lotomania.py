@@ -19,14 +19,14 @@ total = 1
 
 # Loop para gerar os jogos.
 while total <= quantidade:
-    """ Criação de uma lista vazia """
+    """ Criação de uma lista vazia. """
     contagem = 0
     while True:
         numero = randint(1, 100)
         if numero not in lista:
             lista.append(numero)
-            """ Adiciona o numero na lista """
+            """ Adiciona o numero na lista. """
             contagem += 1
-            """ Conta quantos números foram adicionados """
+            """ Conta quantos números foram adicionados. """
         if contagem >= 50:
-            """ Verifica se o número de números adicionados é igual a 50 """
+            """ Verifica se o número de números adicionados é igual a 50. """
