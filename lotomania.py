@@ -20,3 +20,4 @@ total = 1
 # Loop para gerar os jogos.
 while total <= quantidade:
     """ Criação de uma lista vazia """
+    contagem = 0
