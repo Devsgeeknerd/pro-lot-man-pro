@@ -32,3 +32,4 @@ while total <= quantidade:
             """ Verifica se o número de números adicionados é igual a 50. """
             break
             """ Sai do loop. """
+    lista.sort()
