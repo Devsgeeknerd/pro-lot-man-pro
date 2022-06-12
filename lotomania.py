@@ -28,3 +28,4 @@ while total <= quantidade:
             """ Adiciona o numero na lista """
             contagem += 1
             """ Conta quantos números foram adicionados """
+        if contagem >= 50:
