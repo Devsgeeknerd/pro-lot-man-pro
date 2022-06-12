@@ -41,3 +41,4 @@ while total <= quantidade:
     total += 1
     """ Incrementa o total. """
 print('-=' * 6, f' SORTEANDO OS {quantidade} JOGOS ', '-=' * 6)
+""" Imprime o título. """
