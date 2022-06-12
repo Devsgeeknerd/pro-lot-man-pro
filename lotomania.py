@@ -22,3 +22,4 @@ while total <= quantidade:
     """ Criação de uma lista vazia """
     contagem = 0
     while True:
+        numero = randint(1, 100)
