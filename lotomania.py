@@ -26,3 +26,4 @@ while total <= quantidade:
         if numero not in lista:
             lista.append(numero)
             """ Adiciona o numero na lista """
+            contagem += 1
