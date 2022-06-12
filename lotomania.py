@@ -31,3 +31,4 @@ while total <= quantidade:
         if contagem >= 50:
             """ Verifica se o número de números adicionados é igual a 50. """
             break
+            """ Sai do loop. """
