@@ -21,3 +21,4 @@ total = 1
 while total <= quantidade:
     """ Criação de uma lista vazia """
     contagem = 0
+    while True:
