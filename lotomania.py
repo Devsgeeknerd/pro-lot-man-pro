@@ -11,3 +11,4 @@ jogos = list()
 # Título do Programa
 print('-' * 30)
 print('         LOTOMANIA         ')
+print('-' * 30)
