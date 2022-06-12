@@ -48,3 +48,4 @@ for i, l in enumerate(jogos):
     sleep(1)
     """ Pausa de 1 segundo. """
     print('-=' * 9, '< BOA SORTE!!! >', '-=' * 9)
+    """ Imprime o título final. """
