@@ -18,3 +18,4 @@ quantidade = int(input('Quantos bilhetes quer gerar? '))
 total = 1
 
 # Loop para gerar os jogos.
+while total <= quantidade:
