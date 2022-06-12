@@ -46,3 +46,4 @@ for i, l in enumerate(jogos):
     """ Imprime o número do jogo. """
     print(f'Jogo {i + 1}: {l}')
     sleep(1)
+    """ Pausa de 1 segundo. """
