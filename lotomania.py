@@ -27,3 +27,4 @@ while total <= quantidade:
             lista.append(numero)
             """ Adiciona o numero na lista """
             contagem += 1
+            """ Conta quantos números foram adicionados """
