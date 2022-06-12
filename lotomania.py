@@ -9,3 +9,4 @@ jogos = list()
 """ Criação de uma lista vazia """
 
 # Título do Programa
+print('-' * 30)
