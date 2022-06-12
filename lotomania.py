@@ -23,3 +23,4 @@ while total <= quantidade:
     contagem = 0
     while True:
         numero = randint(1, 100)
+        if numero not in lista:
