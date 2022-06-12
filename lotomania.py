@@ -12,3 +12,5 @@ jogos = list()
 print('-' * 30)
 print('         LOTOMANIA         ')
 print('-' * 30)
+
+# Pede para o usuário informar o numero de jogos.
