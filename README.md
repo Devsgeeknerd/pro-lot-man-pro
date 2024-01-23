@@ -1,70 +1,28 @@
-<!-- TITLE -->
-# Gerador de Bilhetes Loto Mania
+<!-- Título -->
+# Gerador de Bilhetes Para Loto Mania
 
-***Conteúdo do Projeto:***
+> [!IMPORTANT]\
+> Boas práticas e sugestões de melhorias:
+>
+> * Adicionar comentários explicativos em trechos mais complexos.
+> * Poderia ser útil encapsular a lógica principal em uma função para melhor modularidade.
+> * Utilizar nomes de variáveis mais descritivos para melhorar a legibilidade do código.
+> * Validar a entrada do usuário para garantir que seja um número inteiro positivo.
+> * Remover a indentação excessiva, que pode ser causada por copiar e colar do código original.
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDOS
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-  <!-- * [Foto da tela](#foto-da-tela) -->
-  <!-- * [Links](#links) -->
-* [Meu processo](#meu-processo)
-  * [Construido com](#construido-com)
-  <!-- * [O que aprendi](#o-que-aprendi) -->
-  <!-- * [Desenvolvimento continuo](#desenvolvimento-continuo) -->
-  <!-- * [Recursos Úteis](#recursos-uteis) -->
-* [Autores](#autores)
-<!-- * [Agradecimentos](#agradecimentos) -->
-* [Informações](#informações)
-
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
-
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-## MEU PROCESSO
-
-<!-- BUILT WITH -->
-### CONSTRUIDO COM
-
-* [Python](https://www.python.org/)
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTINUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS UTEIS -->
-
-<!-- AUTHORS -->
-## AUTORES
-
-* [Paulo Vanderley](https://github.com/Devsgeeknerd)
-
-<!-- ACKNOWLEDGEMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-lot-man&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fpro-lot-man-pro&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followers](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-lot-man?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pro-lot-man-pro?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-lot-man?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/pro-lot-man-pro?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-lot-man?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/pro-lot-man-pro?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/pro-lot-man?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/pro-lot-man-pro?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/pro-lot-man?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/pro-lot-man-pro?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
